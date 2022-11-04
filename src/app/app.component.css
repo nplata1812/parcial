@@ -1,0 +1,7 @@
+.navbar__text{
+    font-family: 'Indie Flower', cursive;
+    font-size: 36px ;
+}
+.border__bottom{
+    border-bottom:  solid rgba(0, 0, 0, 0.2);
+}
